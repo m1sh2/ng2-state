@@ -1,0 +1,25 @@
+{
+  "name": "ng2-state",
+  "version": "0.0.1",
+  "description": "Angular 2 state service module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1sh2/ng2-state.git"
+  },
+  "keywords": [
+    "ng2",
+    "state",
+    "angular",
+    "angular2"
+  ],
+  "author": "Mike Datsko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1sh2/ng2-state/issues"
+  },
+  "homepage": "https://github.com/m1sh2/ng2-state#readme"
+}
